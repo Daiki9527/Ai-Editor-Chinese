@@ -30,3 +30,5 @@
 
 0=010001C6-G,010001C7-G,010001C8-G;Add Those Scripts
 [AIScriptsList]做法一样
+
+3，复制文件夹“config”到AIEdit.exe存在的文件夹。
